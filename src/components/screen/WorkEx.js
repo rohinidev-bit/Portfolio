@@ -3,8 +3,6 @@ const WorkEX = (props) => {
 	return (
 		<div
 			style={{
-				position: "absolute",
-
 				left: 0,
 				width: "100%",
 				height: "100%",
@@ -21,7 +19,6 @@ const WorkEX = (props) => {
 						<div class="desc">My current employment. Way better than the position before!</div>
 					</div>
 				</li>
-
 				<li>
 					<div class="direction-l">
 						<div class="flag-wrapper">
@@ -40,11 +37,8 @@ const WorkEX = (props) => {
 						<div class="desc">A description of all the lectures and courses I have taken and my final degree?</div>
 					</div>
 				</li>
-
 			</ul>
-
 		</div>
-
 	);
 }
 
