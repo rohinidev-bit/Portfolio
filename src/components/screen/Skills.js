@@ -7,8 +7,8 @@ const Skills = () => {
 				position: "absolute",
 				left: 0,
 				width: "100%",
-				height: "100%",
-				background: "#000",
+
+				background: "#fff",
 			}}
 		>
 			<div class="container">

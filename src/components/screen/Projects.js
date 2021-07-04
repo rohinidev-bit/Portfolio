@@ -4,13 +4,13 @@ export default function Projects() {
 	return (
 		<div>
 			<div class="heading">
-				<h1>Ordered List UI</h1>
+				<h1>Projects</h1>
 			</div>
 			<div class="container">
-				<div class="nav"><a href="#"><i class="fal fa-home"></i></a><a href="https://twitter.com/collinscode_" target="_blank"><i class="fab fa-twitter"></i></a><a href="https://github.com/cmdeveloped" target="_blank"><i class="fab fa-github"></i></a><a href="https://codepen.io/collinscode" target="_blank"><i class="fab fa-codepen"></i></a></div>
 				<div class="list">
 					<div class="num">
 						<h3>Wolf snackwave cray mustache typewriter butcher tbh.</h3>
+						<h2>Wolf s</h2>
 					</div>
 					<div class="num">
 						<h3>Messenger bag normcore cardigan, brunch organic tumblr locavore street art.</h3>
