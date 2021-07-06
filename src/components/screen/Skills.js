@@ -4,14 +4,14 @@ const Skills = () => {
 	return (
 		<div
 			style={{
-				position: "absolute",
+				// position: "absolute",
 				left: 0,
 				width: "100%",
 
 				background: "#fff",
 			}}
 		>
-			<div class="container">
+			<div className="container">
 				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="" />
 				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" />
 				<img src="https://nodejs.org/static/images/logo-hexagon-card.png" alt="" />

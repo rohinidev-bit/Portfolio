@@ -1,13 +1,51 @@
-@media screen and (max-width: 500px) {
-	.column {
-	  width: 100%;
-	}
-  }
-  .row {
-	display: flex;
-  }
+div.gmail {
+	content:url(https://image.flaticon.com/icons/png/512/60/60543.png);
+ }​
+ div.git {
+	content:url(https://image.flaticon.com/icons/png/512/25/25231.png);
+ }​
+ div.fb {
+	content:url(https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png);
+ }​
+
+.container-info {
+	/* display: inline-block; */
+	/* position: relative; */
+	width: 100%;
+	/* min-height: 490px; */
+	background-color: red; }
+	@media (min-width: 768px) {
+	  .container-info {
+		float: left;
+		/*position: fixed;*/
+		left: 0;
+		top: 0;
+		/* height: 100%; */
+		width: 60%; } }
+  .container-main {
+	display: inline-block;
+	position: relative;
+	width: 100%;
+	/* min-height: 490px; */
+	background-color: hsl(0, 0%, 95%); }
+	@media (min-width: 768px) {
+	  .container-main {
+		float: right;
+		/*position: fixed;*/
+		right: 0;
+		top: 0;
+		height: 80vh;
+		width: 40%; } }
+	.row {
+		display: flex;
+		}
+		
+		.column {
+		/* flex: 33.33%; */
+		padding: 5px;
+		}
+
+		
   
-  .column {
-	/* flex: 33.33%; */
-	padding: 5px;
-  }
+  
+  
