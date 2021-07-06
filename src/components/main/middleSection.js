@@ -17,12 +17,13 @@ export default class middleSection extends Component {
 				<div id="skills" style={{ height: 'max-content' }}>
 					<Skills />
 				</div>
-				<div id="contact" style={{ height: '2vh' }}>
-					<Contact />
-				</div>
 				<div id="volunteer" style={{ height: 'max-content' }}>
 					<Volunteer />
 				</div>
+				<div id="contact" style={{ height: '2vh' }}>
+					<Contact />
+				</div>
+
 			</>
 		)
 	}
