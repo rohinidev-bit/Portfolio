@@ -6,22 +6,26 @@
   
   img {
 	width: 30%;
-
+	/* height: 100%; */
+	/* object-fit:cover; */
 	-webkit-box-reflect:below 2px linear-gradient(transparent, transparent, rgba(158, 143, 143, 0.267));
 	transform-origin:center;
-	transform:perspective(800px) rotateY(25deg);
+	transform:perspective(800px);
 	transition:0.5s;
   }
   .container {
 	max-width:600px;
-	/* max-height:750px; */
+	max-height:750px;
 	display:flex;
 	justify-content:center;
 	align-items:center;
+
 	/* gap:20px; */
   } 
   .container:hover img {
 	opacity:0.3;
+	transform:perspective(800px) rotateY(25deg);
+
   }
   .container img:hover {
 	transform:perspective(800px)       rotateY(0deg);

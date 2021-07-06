@@ -1,10 +1,12 @@
-div.gmail {
-	content:url(https://image.flaticon.com/icons/png/512/60/60543.png);
- }​
- div.git {
+div
+.git {
 	content:url(https://image.flaticon.com/icons/png/512/25/25231.png);
  }​
- div.fb {
+.gmail {
+	content:url(https://image.flaticon.com/icons/png/512/60/60543.png);
+ }​
+
+ .fb {
 	content:url(https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png);
  }​
 

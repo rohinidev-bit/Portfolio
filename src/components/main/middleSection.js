@@ -3,6 +3,7 @@ import WorkEx from '../screen/WorkEx'
 import Projects from '../screen/Projects'
 import Skills from '../screen/Skills'
 import Contact from '../screen/Contact'
+import Volunteer from '../screen/Volun'
 export default class middleSection extends Component {
 	render() {
 		return (
@@ -18,6 +19,9 @@ export default class middleSection extends Component {
 				</div>
 				<div id="contact" style={{ height: '2vh' }}>
 					<Contact />
+				</div>
+				<div id="volunteer" style={{ height: 'max-content' }}>
+					<Volunteer />
 				</div>
 			</>
 		)

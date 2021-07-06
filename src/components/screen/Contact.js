@@ -18,11 +18,9 @@ const Contact = () => {
 							</div>
 							<div className="column">
 								<div class="git"></div>
-
 							</div>
 							<div className="column">
 								<div class="fb"></div>
-
 							</div>
 						</div>
 					</div>
