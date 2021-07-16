@@ -1,8 +1,4 @@
 
-  /* body {
-	place-items:center;
-
-  }  */
   
   img {
 	width: 30%;
@@ -34,4 +30,4 @@
 	opacity:1;
 	-webkit-box-reflect:below 2px linear-gradient(transparent, transparent, rgba(158, 143, 143, 0.267));
 
-  }
+  } 

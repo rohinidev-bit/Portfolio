@@ -4,10 +4,14 @@ import Projects from '../screen/Projects'
 import Skills from '../screen/Skills'
 import Contact from '../screen/Contact'
 import Volunteer from '../screen/Volun'
+import About from '../screen/About'
 export default class middleSection extends Component {
 	render() {
 		return (
 			<>
+				<div id="home" style={{ height: 'max-content', width: 'max-content' }}>
+					<About />
+				</div>
 				<div id="work" style={{ height: 'max-content' }}>
 					<WorkEx />
 				</div>
