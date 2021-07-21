@@ -1,12 +1,13 @@
 import React from 'react';
 import './about.css'
+import Resume from './images/Resume.pdf'
 const Picture = () => {
 	return (
 		<div>
 			<div class="wrap">
 				<div class="about">
 					<div class="about-intro">
-						<h4>About</h4>
+						<p style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "60px", "font-weight": "300" }}> About me</p>
 						<div class="intro-details">
 							<div class="intro-image">
 								<div class="image">
@@ -73,7 +74,7 @@ const Picture = () => {
 							</button>
 						</div>
 						<div class="download-cv">
-							<button class="about-button"><a href="/images/Resume.pdf" download="Rohini's Resume" target="_blank"> Download Resume</a></button>
+							<button class="about-button"><a href={Resume} target="_blank"> View Resume</a></button>
 						</div>
 					</div>
 				</div>

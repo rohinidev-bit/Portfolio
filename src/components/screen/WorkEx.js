@@ -4,6 +4,8 @@ import GP from './images/GP.jpg'
 const WorkEX = (props) => {
 	return (
 		<div>
+			<p style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "60px", "font-weight": "300" }}> Work Experience</p>
+
 			<div style={{
 				padding: "14rem",
 			}}>

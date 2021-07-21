@@ -11,13 +11,14 @@
   max-width: 1200px;
   margin: 0 auto;
   padding: 0rem;
-  font-family: sans-serif;
   text-align: center;
 }
 
 img {
-  height: auto;
-  max-width: 100%;
+  display: flex;
+  justify-content: center;align-items: center;
+  height: 42vh;
+  max-width: 52vh;
   vertical-align: middle;
 }
 .btn {
@@ -80,7 +81,6 @@ img {
 }
 
 .card_title {
-	font-family: sans-serif;
   text-align: center;
   color: #ffffff;
   font-size: 1.1rem;
