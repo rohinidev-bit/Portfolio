@@ -119,13 +119,11 @@ export default function Projects() {
 							<div class="card_content">
 								<h2 class="card_title" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "28px", "font-weight": "300" }}> Invoice Generator </h2>
 								<div className="padded">
-
 									<h2 class="card_title" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "left" }}>About</h2>
 								</div>
 								<p class="card_text" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}>An invoice generator tool used to create an invoice online without any hassle or error. Generates PDF of the invoice and allows you to download the file to the desktop.</p>
 								<h2 class="card_title" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "left" }}>Created using</h2>
 								<div className="padded">
-
 									<p style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}>React, HTML, CSS, Material UI</p>
 								</div>
 								<button class="btn card_btn"><a href="https://github.com/rohinidev-bit/Invoice-Generator" rel="noopener noreferrer" target="_blank">Read More</a></button>

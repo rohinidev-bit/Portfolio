@@ -8,21 +8,31 @@ export default class middleSection extends Component {
 	render() {
 		return (
 			<>
-				<div id="home" style={{ height: 'max-content' }}>
-					<About />
+				<div className="padded">
+					<div id="home" style={{ height: 'max-content' }}>
+						<About />
+					</div>
 				</div>
-				<div id="work" style={{ height: 'max-content' }}>
-					<WorkEx />
+				<div className="padded">
+
+					<div id="work" style={{ height: 'max-content' }}>
+						<WorkEx />
+					</div>
 				</div>
+
 				<div id="projects" style={{ height: 'max-content' }}>
 					<Projects />
 				</div>
-
-				<div id="volunteer" style={{ height: 'max-content' }}>
-					<Volunteer />
+				{/* volunteer inc width */}
+				<div className="padded">
+					<div id="volunteer" style={{ height: 'max-content' }}>
+						<Volunteer />
+					</div>
 				</div>
-				<div id="contact" style={{ height: '2vh' }}>
-					<Contact />
+				<div className="padded">
+					<div id="contact" style={{ height: '2vh' }}>
+						<Contact />
+					</div>
 				</div>
 
 			</>

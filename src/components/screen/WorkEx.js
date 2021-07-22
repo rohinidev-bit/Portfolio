@@ -31,8 +31,10 @@ const WorkEX = () => {
 			<div>
 				<p style={{ color: "#222222", "font-family": "Lato, sans-serif", "font-size": "25px", "font-weight": "300", "line-height": "58px", "margin": "0 0 58px", "display": "flex", "justifyContent": "center", "alignSelf": "center" }}> Currently I am working on </p>
 				<div className="row">
+
 					<img src={SC} alt="" style={{ height: "20vh", width: "20vh" }} />
-					<h2>X</h2>
+
+					<h2 style={{ "margin": "4rem" }}>X</h2>
 					<img src={GP} alt="" style={{ height: "20vh", width: "20vh" }} />
 
 				</div>
