@@ -6,7 +6,9 @@
 *::after {
   box-sizing: border-box;
 }
-
+.padded{
+  padding: 2rem 0rem;
+}
 .main1{
   max-width: 1200px;
   margin: 0 auto;
@@ -22,7 +24,16 @@ img {
   vertical-align: middle;
 }
 .btn {
-  color: #ffffff;
+	text-transform: uppercase;
+	letter-spacing: .3rem;
+	cursor: pointer;
+	font-size: 14px;
+	transition: all .3s ease-in;
+	-webkit-transition: all .3s ease-in;
+	-moz-transition: all .3s ease-in;
+	-o-transition: all .3s ease-in;
+
+  
   padding: 1.2rem;
   font-size: 14px;
   text-transform: uppercase;
@@ -30,10 +41,8 @@ img {
   font-weight: 400;
   display: block;
   width: 100%;
-  cursor: pointer;
-  border: 1px solid rgba(255, 255, 255, 0.2);
   background: transparent;
-}
+} 
 .btn:hover {
   background-color: rgba(255, 255, 255, 0.12);
 }
@@ -109,4 +118,7 @@ img {
   text-align: center;
   padding: 0.4rem;
 
+}
+a{
+  color: #ffffff;
 }

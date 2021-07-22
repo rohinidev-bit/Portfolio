@@ -8,7 +8,7 @@ export default class middleSection extends Component {
 	render() {
 		return (
 			<>
-				<div id="home" style={{ height: 'max-content', width: 'max-content' }}>
+				<div id="home" style={{ height: 'max-content' }}>
 					<About />
 				</div>
 				<div id="work" style={{ height: 'max-content' }}>

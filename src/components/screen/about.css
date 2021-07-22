@@ -3,29 +3,21 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
 } 
-center{
+.master101{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	
-}
-p{
-	color: #fff;
-	 font-family: Lato, sans-serif;
-	 font-size: 35px; 
-	 font-weight: 30px;
+	align-self: center;
 }
 .wrap{
-	width: 100%;
+	width: 50%;
 	max-width: 1100px;
 	height: 100%;
 	margin: 0 auto;
-	
 } 
 .padding{
 	padding: 4%;
 }
-
 .intro-details{
 	display: -ms-flex;
     display: -webkit-flex;
@@ -39,9 +31,8 @@ p{
 	.intro-details > .intro-paragraph{
 		width: 76%;
 	}
-
 .about-info{
-	display: -ms-flex;
+	display: -ms-flex; 
 	display: -webkit-flex;
 	display: flex;
 	flex-direction: row;
@@ -100,7 +91,7 @@ p{
 		float: right;
 		color: #252439;
     	background-color: transparent;
-		border: 3px solid #252439;
+		border: 3px solid #222;
 	}
 		.hire-me > .about-button:hover{
 			color:  rgb(27,27,27);
@@ -109,7 +100,7 @@ p{
 	.download-cv > .about-button{
 		margin-left: 25px;
 		color: #fff;
-    	background-color: #252439;
+    	background-color: #222;
 		border: none;
 		float: left;
 	}
@@ -135,7 +126,7 @@ p{
 	left: 0;
 	top: -1rem;
 	font-family: "poppins-bold", sans-serif;
-	color: #252439;
+	color: #222;
 	text-transform: uppercase;
 	letter-spacing: .115rem;
 	font-weight: normal;
@@ -143,7 +134,7 @@ p{
 	line-height: 0;
 }
 .skill-bars li .progress {
-	background: #252439;
+	background: #222;
 	position: relative;
 	height: 100%;
 }
@@ -156,7 +147,7 @@ p{
 	color: white;
 	font-size: 14px;
 	line-height: 1;
-	background: #252439;
+	background: #222;
 	padding: .6rem .6rem;
 	border-radius: 3px;
 }

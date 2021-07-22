@@ -1,9 +1,9 @@
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 1100px) {
 .timeline {
-	width:840px;
+	width:40px;
 	height: 20px;
 	list-style: none;
-	text-align: justify;
+	text-align: justify; 
 	position: absolute;
 	/* left: 50%; */
 	-webkit-transform: translate(-50%, -50%);
@@ -60,7 +60,6 @@
 	font-size: 16px;
 	position: absolute;
 	left: 50%;
-
 	-webkit-transform: translateX(-50%);
 	   -moz-transform: translateX(-50%);
 	    -ms-transform: translateX(-50%);
@@ -86,39 +85,9 @@
 	     -o-transform: translate(-50%, -100%);
 	        transform: translate(-50%, -100%);
 }
-.plus {
-	position: relative;
-	width:20px;
-	height:20px;
-	background:#000;
-  }
-  
-  .plus:before,
-  .plus:after {
-	content: "";
-	position:absolute;
-	background:#fff;
-  }
-  
-  .plus:before {
-	left:50%;
-	top:4px;
-	bottom:4px;
-	width:2px;
-	transform:translateX(-50%);
-  }
-  
-  .plus:after {
-	top:50%;
-	left:4px;
-	right:4px;
-	height:2px;
-	transform:translateY(-50%);
-  }
   .row{
 	  display: flex;
 	  align-items: center;
 	  justify-content: center;
 	  flex-direction: row;
-	  
   }
