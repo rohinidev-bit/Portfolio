@@ -24,12 +24,9 @@
     display: flex;
     flex-flow: row wrap;
 }
-	.intro-details > .intro-image{
-	    width: 24%;
-	
-	}
+
 	.intro-details > .intro-paragraph{
-		width: 76%;
+		width: 100%;
 	}
 .about-info{
 	display: -ms-flex; 

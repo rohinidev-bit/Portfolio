@@ -1,40 +1,41 @@
 import React from "react"
 import "./volun.css"
-import Echo from './images/echo.jpg'
+
+
 export default function Volun() {
 	return (
 		<div>
-			<p style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "40px", "font-weight": "300", "display": "flex", "justifyContent": "center", "alignSelf": "center" }}> Volunteering Experience</p>
-			<div class='split-pane col-xs-12 col-sm-6 uiux-side'>
-				<div>
-					<div class='text-content'>
-						<div class='big'>UI/UX?</div>
-					</div>
 
-				</div>
-			</div>
-			<div class='split-pane col-xs-12 col-sm-6 frontend-side'>
-				<div class='text-content'>
-					<img src={Echo} alt=""></img>
-				</div>
-			</div>
-			<div class='split-pane col-xs-12 col-sm-6 uiux-side'>
-				<div>
-					<div class='text-content'>
-						<div class="bold">You want</div>
-						<div class='big'>UI/UX?</div>
-					</div>
+			<div className="volun">
+				<h1 class="list--title">			<p style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "60px", "font-weight": "300", "marginLeft": "10%" }}> Volunteering Experience</p>
+				</h1>
+				<section class="list--wrapper">
 
-				</div>
-			</div>
-			<div class='split-pane col-xs-12 col-sm-6 frontend-side'>
-				<div>
-					<div class='text-content'>
-						<div class="bold">You want</div>
-						<div class='big'>FRONT-END?</div>
+					<div class="yo">
+						<ol class="list">
+							<li class="list--item">
+								<a href="javascript:void(0)" class="list--link">
+									<h2 class="list--link__header"><span>Joint Secretary, AR VR MR JUET</span></h2>
+									<p class="list--link__description">The counter-reset CSS property resets a CSS counter to a given value.</p>
+								</a>
+							</li>
+							<li class="list--item">
+								<a href="javascript:void(0)" class="list--link">
+									<h2 class="list--link__header"><span>UX/UI Volunteer, Computer Soceity of India</span></h2>
+									<p class="list--link__description">The counter-increment CSS property increases or decreases the value of a CSS counter by a given value.</p>
+								</a>
+							</li>
+							<li class="list--item">
+								<a href="javascript:void(0)" class="list--link">
+									<h2 class="list--link__header"><span>Director of Volunteer, Echo Magazine</span></h2>
+									<p class="list--link__description">The content CSS property replaces an element with a generated value. Objects inserted using the content property are anonymous replaced elements.</p>
+								</a>
+							</li>
+						</ol>
 					</div>
-				</div>
+				</section>
 			</div>
+
 		</div>
 	)
 }
