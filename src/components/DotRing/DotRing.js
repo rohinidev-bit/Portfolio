@@ -11,7 +11,9 @@ const DotRing = () => {
 			<div
 				style={{ left: `${x}px`, top: `${y}px` }}
 				className={"ring " + cursorType}
-			></div>
+			>
+
+			</div>
 			<div
 				style={{ left: `${x}px`, top: `${y}px` }}
 				className={"ring " + cursorType}

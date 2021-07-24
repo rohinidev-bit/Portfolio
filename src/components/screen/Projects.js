@@ -11,7 +11,7 @@ export default function Projects() {
 		<div>
 			<div className="heading">
 				<div className="center">
-					<h1 class="list--title">	<p style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "60px", "font-weight": "300", "marginLeft": "10%" }}> Projects</p></h1>
+					<h1 class="list--title">	<p style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "3.5vw", "font-weight": "300", "marginLeft": "10%" }}> Projects</p></h1>
 				</div>
 			</div>
 			<div className="main1" style={{
@@ -26,7 +26,7 @@ export default function Projects() {
 								<div className="padded">
 									<h2 className="card_title" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "left" }}>About</h2>
 								</div>
-								<p className="card_text" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}>An online examination portal that allows a multi-factor user authentication system which includes Face Recognition System and username, password-based login system. Examiner will be notified if the examinee makes attempts to leave the test window.</p>
+								<p className="card_text" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}>An online examination portal that allows a multi-factor user authentication system which includes Face Recognition System and username, password-based login system. </p>
 								<div className="padded">
 
 									<h2 className="card_title" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "left" }}>Created using</h2>
@@ -45,7 +45,7 @@ export default function Projects() {
 
 									<h2 className="card_title" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "left" }}>About</h2>
 								</div>
-								<p className="card_text" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}> A system in which users write to as well as read files or in which users are allotted some amount of space for personal files on a common server. Allows users to store images, videos, documents, and many in the cloud. Also, user can delete the file and generate unique links for each file to share.</p>
+								<p className="card_text" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}> A system in which users write to as well as read files or in which users are allotted some amount of space for files.  Also, user can delete the file and generate unique links for each file to share.</p>
 								<div className="padded">
 									<h2 className="card_title" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "left" }}>Created using</h2>
 								</div>
@@ -64,7 +64,7 @@ export default function Projects() {
 
 									<h2 className="card_title" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "left" }}>About</h2>
 								</div>
-								<p className="card_text" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}>A portal that allows students and their parents to post query/comment, also read other such comments if any and access information such as notice, food menu and contact that can be used by teachers, students and parents.</p>
+								<p className="card_text" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}>A portal that allows students and their parents to post query/comment, also read other such comments if any and access information.</p>
 								<h2 className="card_title" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "left" }}>Created using</h2>
 								<div className="padded">
 									<p style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}>ReactJS, Firebase database and authentication, Material UI, Bootstrap, CSS</p>

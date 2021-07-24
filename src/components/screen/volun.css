@@ -5,12 +5,9 @@
 	flex-direction: row;
 }
 
-
 .volun {
-	margin: 0;
-	padding: 0;
+	margin-left: 10%;
 	font-size: 12px;
-	font-family: "Roboto", sans-serif;
 	color: #000;
 	background: #fff
 	  no-repeat center center fixed;
@@ -56,7 +53,7 @@
 	font-weight: 700;
 	line-height: 2em;
 	text-align: center;
-	color: #141414;
+	color: #222222;
 	background-color: #fff;
   }
   
@@ -81,10 +78,10 @@
 	padding: 10px 13px;
 	line-height: 1.5;
 	letter-spacing: 0.05em;
-	font-family: "Roboto Mono", monospace;
 	font-size: 14px;
 	font-weight: 400;
-	background-color: #141414;
+	background-color: #222222;
+	color: #fff;
   }
   
   @media (min-width: 575px) {

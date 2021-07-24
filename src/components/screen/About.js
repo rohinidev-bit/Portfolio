@@ -6,8 +6,7 @@ const Picture = () => {
 		<div className="master101">
 
 			<div className="wrap">
-				<h1 class="list--title"><p style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "60px", "font-weight": "300", "display": "flex", "justifyContent": "center", "alignSelf": "center" }}> About me</p></h1>
-
+				<h1 class="list--title"><p style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "3.5vw", "font-weight": "300", "display": "flex", "justifyContent": "center", "alignSelf": "center" }}> About me</p></h1>
 				<div className="about" >
 					<div className="about-intro">
 						<div className="intro-details">
@@ -36,6 +35,14 @@ const Picture = () => {
 								<li>
 									<div className="progress percent95"></div>
 									<strong style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}>Node</strong>
+								</li>
+								<li>
+									<div className="progress percent95"></div>
+									<strong style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}>Illustrator</strong>
+								</li>
+								<li>
+									<div className="progress percent95"></div>
+									<strong style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}>Photoshop</strong>
 								</li>
 								<li>
 									<div className="progress percent90"></div>

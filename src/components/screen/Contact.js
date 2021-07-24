@@ -7,28 +7,13 @@ const Contact = () => {
 			<section>
 				<body>
 					<div className="container-info" style={{
-						// height: '80vh'
 						"backgroundColor": "#222222",
-						// "paddingBottom": "100px"
 					}}>
 
 						<section id="contact">
-							<p style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "60px", "font-weight": "300", "marginLeft": "10%" }}> Here's how to reach me!</p>
 
 							<div className="row">
-								<div className="col" >
-									<div className="contact-wrapper">
-										<div className="direct-contact-container">
-											<ul className="contact-list">
-												<li className="list-item"><i className="fa fa-map-marker fa-2x"><span className="contact-text place"><p style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "25px", "font-weight": "300" }}> Raipur, Chhattisgarh, 492099 </p></span></i></li>
-												<li className="list-item"><i className="fa fa-phone fa-2x"><span className="contact-text phone"><a href="tel:9340995422" title="Give me a call"><p style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "25px", "font-weight": "300" }}> (91) 9340995422 </p></a></span></i></li>
-												<li className="list-item"><i className="fa fa-phone fa-2x"><span className="contact-text phone"><a href="tel:9174067777" title="Give me a call"><p style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "25px", "font-weight": "300" }}> (91) 9174067777</p></a></span></i></li>
-												<li className="list-item"><i className="fa fa-envelope fa-2x"><span className="contact-text gmail"><a href="mailto:rohiniverma53@gmail.com"><p style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "25px", "font-weight": "300" }}> rohiniverma53@gmail.com</p></a></span></i></li>
-											</ul>
 
-										</div>
-									</div>
-								</div>
 								<div className="col">
 									<div className="contact-wrapper">
 										<div className="direct-contact-container">
@@ -62,8 +47,9 @@ const Contact = () => {
 													</li>
 													</a>
 												</ul>
-												<p style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "35px", "font-weight": "300" }}> I would ♡  to hear from you.</p>
-
+												<div className="center">
+													<p style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "2vw", "font-weight": "300" }}> I would ♡  to hear from you.</p>
+												</div>
 											</div>
 										</div>
 									</div>
@@ -71,8 +57,6 @@ const Contact = () => {
 
 							</div>
 						</section>
-
-
 					</div>
 				</body>
 			</section>
