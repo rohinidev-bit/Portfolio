@@ -13,23 +13,23 @@ export default function Volun() {
 					<div class="yo">
 						<ol class="list">
 							<li class="list--item">
-								<a href="noreferrer" class="list--link">
+								<div class="list--link">
 									<h2 class="list--link__header" style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "30px", "font-weight": "300" }}><span>Joint Secretary, AR VR MR JUET</span></h2>
 									<p class="list--link__description" style={{ "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300" }}>Managed, tutored and guided members of the club. Facilitated sessions, workshops about design, augmented reality.
 									</p>
-								</a>
+								</div>
 							</li>
 							<li class="list--item">
-								<a href="noreferrer" class="list--link">
+								<div class="list--link">
 									<h2 class="list--link__header" style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "30px", "font-weight": "300" }}><span>UX/UI Volunteer, Computer Soceity of India</span></h2>
 									<p class="list--link__description" style={{ "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300" }}>Organized, performed, coordinated, promoted technical events, workshops and seminars.</p>
-								</a>
+								</div>
 							</li>
 							<li class="list--item">
-								<a href="noreferrer" class="list--link">
+								<div class="list--link">
 									<h2 class="list--link__header" style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "30px", "font-weight": "300" }}><span>Director of Volunteer, Echo Magazine</span></h2>
 									<p class="list--link__description" style={{ "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300" }}> Provided administrative support for the marketing department. Liaised between three departments to deliver the project ahead of schedule.</p>
-								</a>
+								</div>
 							</li>
 						</ol>
 					</div>

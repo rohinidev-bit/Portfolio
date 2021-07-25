@@ -26,7 +26,7 @@ export default function Projects() {
 								<div className="padded">
 									<h2 className="card_title" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "left" }}>About</h2>
 								</div>
-								<p className="card_text" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}>An online examination portal that allows a multi-factor user authentication system which includes Face Recognition System and username, password-based login system. </p>
+								<p className="card_text" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}>An online examination portal that allows a multi-factor user authentication system which includes Face Recognition System and password-based. </p>
 								<div className="padded">
 
 									<h2 className="card_title" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "left" }}>Created using</h2>
@@ -45,7 +45,7 @@ export default function Projects() {
 
 									<h2 className="card_title" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "left" }}>About</h2>
 								</div>
-								<p className="card_text" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}> A system in which users write to as well as read files or in which users are allotted some amount of space for files.  Also, user can delete the file and generate unique links for each file to share.</p>
+								<p className="card_text" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}> A system in which users write to as well as read files. Also, user can delete the file and generate unique links to share the files for others to access.</p>
 								<div className="padded">
 									<h2 className="card_title" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "left" }}>Created using</h2>
 								</div>
@@ -67,7 +67,7 @@ export default function Projects() {
 								<p className="card_text" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}>A portal that allows students and their parents to post query/comment, also read other such comments if any and access information.</p>
 								<h2 className="card_title" style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "left" }}>Created using</h2>
 								<div className="padded">
-									<p style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}>ReactJS, Firebase database and authentication, Material UI, Bootstrap, CSS</p>
+									<p style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300", "text-align": "justify", "text-justify": "inter-word" }}>ReactJS, Firebase database and authentication, CSS</p>
 								</div>
 								<button className="btn card_btn"><a href="https://github.com/rohinidev-bit/Hostel-Review-Management" rel="noopener noreferrer" target="_blank">Read More</a></button>
 							</div>

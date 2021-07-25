@@ -19,6 +19,7 @@ const Contact = () => {
 										<div className="direct-contact-container">
 											<div className="form-wrapper">
 												<ul className="social-media-list">
+
 													<a href="https://github.com/rohinidev-bit" className="contact-icon"><li>
 														<img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="" style={{ height: "60px", width: "60px", borderRadius: "50%" }}></img>
 													</li>
@@ -46,10 +47,10 @@ const Contact = () => {
 														<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Black_Instagram_icon.svg/1200px-Black_Instagram_icon.svg.png" alt="" style={{ height: "60px", width: "60px", borderRadius: "50%" }} />
 													</li>
 													</a>
-												</ul>
-												<div className="center">
 													<p style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "2vw", "font-weight": "300" }}> I would ♡  to hear from you.</p>
-												</div>
+
+												</ul>
+
 											</div>
 										</div>
 									</div>
@@ -60,7 +61,7 @@ const Contact = () => {
 					</div>
 				</body>
 			</section>
-		</div>
+		</div >
 	)
 }
 
