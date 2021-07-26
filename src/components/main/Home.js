@@ -21,7 +21,6 @@ const Home = () => {
 			>
 				<h1 style={{ color: "#ffffff", "font-family": "Lato, sans-serif", "font-size": "90px", "font-weight": "300", "line-height": "58px", "margin": "0 0 8vh" }}>Hi, </h1>
 				<h1 style={{ color: "#ffffff", "font-family": "Lato, sans-serif", "font-size": "100px", "font-weight": "300", "line-height": "58px", "margin": "0 0 8vh" }}>I'm Rohini </h1>
-				<h1 style={{ color: "#ffffff", "font-family": "Lato, sans-serif", "font-size": "25px", "font-weight": "300", "line-height": "58px", "margin": "0 0 8vh" }}>I'm a MERN stack developer looking for dev roles. </h1>
 				<h1 style={{ color: "#ffffff", "font-family": "Lato, sans-serif", "font-size": "25px", "font-weight": "300", "line-height": "58px", "margin": "0 0 8vh" }}> Scroll down to learn more about me :)  </h1>
 			</div>
 			<Head />
