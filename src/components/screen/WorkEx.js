@@ -36,7 +36,7 @@ const WorkEX = () => {
 						<div class="timeline-content">
 							<h3 style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "30px", "font-weight": "350" }}>Adept</h3>
 							<span>AUGUST 2018 - DECEMBER 2019</span>
-							<p style={{ color: "#888", "font-family": "Lato, sans-serif", "font-size": "18px", "font-weight": "350" }}>Worked on graphic, layout, and production materials. Provided graphical support for blogs and websites. Collaborated with web developers to create illustrations for the company’s website and developed various social network posts.
+							<p style={{ color: "#888", "font-family": "Lato, sans-serif", "font-size": "18px", "font-weight": "350" }}>Worked on graphic and layout. Provided graphical support for blogs and websites. Collaborated with web developers to create illustrations for the company’s website and developed various social network posts.
 
 							</p>
 						</div>
