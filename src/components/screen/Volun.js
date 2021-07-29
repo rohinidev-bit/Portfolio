@@ -15,7 +15,7 @@ export default function Volun() {
 							<li class="list--item">
 								<div class="list--link">
 									<h2 class="list--link__header" style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "30px", "font-weight": "300" }}><span>Joint Secretary, AR VR MR JUET</span></h2>
-									<p class="list--link__description" style={{ "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300" }}>Managed, tutored and guided members of the club. Facilitated sessions, workshops about design, augmented reality.
+									<p class="list--link__description" style={{ "font-family": "Lato, sans-serif", "font-size": "20px", "font-weight": "300" }}>Managed, tutored and guided members of the club. Facilitated sessions, workshops about design.
 									</p>
 								</div>
 							</li>
