@@ -14,14 +14,38 @@ const Home = () => {
 			<DotRing />
 			<div
 				style={{
-					position: "absolute",
 					top: "25vh",
-					left: "18vh",
+					position: "absolute",
+					"left": 0,
+					"right": 0,
+					"margin": "0 auto",
+
+					"font-size": "16pt",
 				}}
 			>
-				<h1 style={{ color: "#ffffff", "font-family": "Lato, sans-serif", "font-size": "90px", "font-weight": "300", "line-height": "58px", "margin": "0 0 8vh" }}>Hi, </h1>
-				<h1 style={{ color: "#ffffff", "font-family": "Lato, sans-serif", "font-size": "100px", "font-weight": "300", "line-height": "58px", "margin": "0 0 8vh" }}>I'm Rohini </h1>
-				<h1 style={{ color: "#ffffff", "font-family": "Lato, sans-serif", "font-size": "25px", "font-weight": "300", "line-height": "58px", "margin": "0 0 8vh" }}> Scroll down to learn more about me :)  </h1>
+				<div className="padded" style={{ "text-align": "center" }}>
+				</div>
+				<div className="padded" style={{ "text-align": "center" }}>
+				</div>
+				<div className="padded" style={{ "text-align": "center" }}>
+					<h1 style={{
+						color: "#ffffff", "font-family": "Lato, sans-serif", "font-weight": "300", "line-height": "58px",
+						"display": "inline",
+						"margin-top": "66.66%",
+						"font-size": "calc(1em + 7vw)",
+					}}>Hi, I'm   Rohini </h1>
+				</div>
+				<div className="padded" style={{ "text-align": "center" }}>
+				</div>
+				<div className="padded" style={{ "text-align": "center" }}>
+					<h1 style={{
+						color: "#ffffff", "font-family": "Lato, sans-serif", "font-weight": "300", "line-height": "58px",
+						"display": "inline",
+						"margin-top": "66.66%",
+						"font-size": "calc(1em + 1vw)",
+						"text-align": "center"
+					}}> Scroll down to learn more about me :)  </h1>
+				</div>
 			</div>
 			<Head />
 			<Header />

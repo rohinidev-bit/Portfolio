@@ -11,7 +11,7 @@ export default function Projects() {
 		<div>
 			<div className="heading">
 				<div className="center">
-					<h1 class="list--title">	<p style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "3.5vw", "font-weight": "300", "marginLeft": "10%" }}> Projects</p></h1>
+					<h1 class="list--title">	<p style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "3.5em", "font-weight": "300", "marginLeft": "10%" }}> Projects</p></h1>
 				</div>
 			</div>
 			<div className="main1" style={{
