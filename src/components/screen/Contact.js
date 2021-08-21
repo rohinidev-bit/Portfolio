@@ -47,7 +47,7 @@ const Contact = () => {
 														<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Black_Instagram_icon.svg/1200px-Black_Instagram_icon.svg.png" alt="" style={{ height: "60px", width: "60px", borderRadius: "50%" }} />
 													</li>
 													</a>
-													<p style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "2em", "font-weight": "300" }}> I would ♡  to hear from you.</p>
+													<p style={{ color: "#fff", "font-family": "Lato, sans-serif", "font-size": "1em", "font-weight": "300" }}> I would ♡  to hear from you.</p>
 
 												</ul>
 

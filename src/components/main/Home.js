@@ -42,7 +42,7 @@ const Home = () => {
 						color: "#ffffff", "font-family": "Lato, sans-serif", "font-weight": "300", "line-height": "58px",
 						"display": "inline",
 						"margin-top": "66.66%",
-						"font-size": "calc(1em + 1vw)",
+						"font-size": "calc(0.5em + 1vw)",
 						"text-align": "center"
 					}}> Scroll down to learn more about me :)  </h1>
 				</div>

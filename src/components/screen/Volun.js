@@ -5,7 +5,7 @@ import "./volun.css"
 export default function Volun() {
 	return (
 		<div style={{ "paddingBottom": "80px" }}>
-			<h1 class="list--title"><p style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "3.5em", "font-weight": "300", "marginLeft": "10%" }}> Volunteering Experience</p>
+			<h1 class="list--title"><p style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "2.8em", "font-weight": "300", "marginLeft": "10%" }}> Volunteering Experience</p>
 			</h1>
 			<div className="volun">
 

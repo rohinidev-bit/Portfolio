@@ -5,7 +5,7 @@ const Picture = () => {
 	return (
 		<div className="master101">
 			<div className="wrap">
-				<h1 class="list--title"><p style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "3.5em", "font-weight": "300", "display": "flex", "justifyContent": "center", "alignSelf": "center" }}> About me</p></h1>
+				<h1 class="list--title"><p style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "2.8em", "font-weight": "300", "display": "flex", "justifyContent": "center", "alignSelf": "center" }}> About me</p></h1>
 				<div className="about" >
 					<div className="about-intro">
 						<div className="intro-details">

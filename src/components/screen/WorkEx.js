@@ -2,7 +2,7 @@ import "./work.css"
 const WorkEX = () => {
 	return (
 		<div>
-			<h1 class="list--title"><p style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "3.5em", "font-weight": "300", "marginLeft": "10%" }}> Work Experience</p></h1>
+			<h1 class="list--title"><p style={{ color: "#000", "font-family": "Lato, sans-serif", "font-size": "2.8em", "font-weight": "300", "marginLeft": "10%" }}> Work Experience</p></h1>
 			<div >
 				<div class="container">
 					<div class="timeline-block timeline-block-right">
